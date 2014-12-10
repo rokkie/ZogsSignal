@@ -1,0 +1,26 @@
+{
+  "name": "ZogsSignal",
+  "version": "0.0.0",
+  "description": "Signaling server",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rokkie/ZogsSignal.git"
+  },
+  "keywords": [
+    "WebRTC"
+  ],
+  "author": "Rocco Bruyn",
+  "license": "GNU GPL v3.0",
+  "bugs": {
+    "url": "https://github.com/rokkie/ZogsSignal/issues"
+  },
+  "homepage": "https://github.com/rokkie/ZogsSignal",
+  "dependencies": {
+    "express": "^4.10.4",
+    "socket.io": "^1.2.1"
+  }
+}
